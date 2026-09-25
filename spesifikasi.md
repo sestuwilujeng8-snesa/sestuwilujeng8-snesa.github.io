@@ -10,15 +10,15 @@
 
 ## 🎯 BAGIAN 1 — IDENTITAS & MATERI (SESUAIKAN INI)
 
-- **Mata Pelajaran** : [Contoh: IPA / Matematika / Bahasa Indonesia / IPS / Informatika / Bahasa Inggris / PPKn]
-- **Fase / Kelas**   : [Contoh: Fase D — Kelas VII / VIII / IX SMP]
-- **Materi Pokok**   : [Contoh: Sistem Pernapasan Manusia / Teorema Pythagoras / Teks Prosedur / Bentang Alam & Benua / Algoritma & Pemrograman]
-- **Tujuan Belajar** : [Rumuskan tujuan pembelajaran sesuai Capaian Pembelajaran (CP) Fase D mata pelajaran Anda]
-- **Nama Guru**      : [Nama Lengkap + Gelar Anda — Contoh: Edy Santoso, S.Pd.]
-- **Nama Sekolah**   : [Nama Sekolah Anda — Contoh: SMP Negeri 1 Lamongan]
-- **File Logo**      : [Bebas — lampirkan file logo sekolah Anda, AI otomatis menyesuaikan nama file]
-- **File Foto Guru** : [Bebas — lampirkan file foto guru, AI otomatis menyesuaikan nama file]
-- **File Background**: `bg-ruang-kelas.jpg` (atau lampirkan gambar latar pilihan Anda)
+- **Mata Pelajaran** : Informatika
+- **Fase / Kelas**   : Fase D / Kelas VIII
+- **Materi Pokok**   : Visualisasi Data
+- **Tujuan Belajar** : Murid mampu memilih jenis chart yang sesuai dengan karakteristik data dan tujuan penyajian, membuat chart yang lengkap dan mudah dibaca secara manual maupun dengan aplikasi lembar kerja, serta menginterpretasikan dan mempresentasikan hasilnya
+- **Nama Guru**      : Sestu Wilujeng Ngabdiningsih, S.Pd
+- **Nama Sekolah**   : SMP Negeri 1 Lamongan
+- **File Logo**      : logo sekolah
+- **File Foto Guru** : foto guru
+- **File Background**: `bg-ruang-kelas.jpg` 
 
 ---
 
